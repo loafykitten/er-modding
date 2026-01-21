@@ -26,7 +26,7 @@ Classes Expanded is a mod that adds new starting classes to the game:
 
 ### Installation
 - Install [me³ / Mod Engine 3](https://github.com/garyttierney/me3)
-- Download the latest release of this mod from here:
+- Download the latest release of this mod from here: https://github.com/loafykitten/er-modding/releases/tag/classes-expanded-v0.1
 - Extract the **files from the mod folder** into the eldenring-mods folder within me³
 
 <br/>
