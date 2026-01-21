@@ -10,7 +10,7 @@ Specific mods can be installed by going to it's specific latest release link, co
 ## Classes Expanded **(DLC Required)**
 Classes Expanded is a mod that introduces additional starting classes to the game. Currently the added class are:
 
-- *Abysswalker
-- Bestia
+- *Abysswalker - 2H Greatsword class based on the Abysswalker aesthetic from DS3
+- Beastia - Powerstanced Beast Claws class based on an animalistic aesthetic
 
-*The Abysswalker class adds a Knight's Greatsword variant called the Cursed Greatsword. It looks and acts exactly like the original, except it comes with the Savage Lion's Claw ash of war.
+*The Abysswalker class adds a Knight's Greatsword variant called the Cursed Greatsword. It looks and acts exactly like the original, except it comes with the Savage Lion's Claw ash of war. This weapon is not obtainable outside of this class.
