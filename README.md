@@ -5,7 +5,7 @@ All mods require [me³ / Mod Engine 3](https://github.com/garyttierney/me3). You
 
 All mods can technically be installed by cloning this repo and running the mod profile of your choosing if me³ is installed. For example, Classes Expanded would just need you to double click the classes-expanded.me3 file. If running by the terminal, you would `cd` to the root directory and run `me3 launch -p [mod-profile].me3`.
 
-Specific mods can be installed by going to it's specific latest release link, contained in it's section below.
+Specific mods can be installed by going to its specific latest release link, contained in its section below.
 
 <br/>
 
@@ -18,7 +18,7 @@ Specific mods can be installed by going to it's specific latest release link, co
 Classes Expanded is a mod that adds new starting classes to the game:
 
 - *Abysswalker - 2H Greatsword class based on the Abysswalker aesthetic from DS3
-- Beastia - Powerstanced Beast Claws class based on an animalistic aesthetic
+- Bestia - Powerstanced Beast Claws class based on an animalistic aesthetic
 
 **The Abysswalker class adds a Knight's Greatsword variant called the Cursed Greatsword. It looks and acts exactly like the original, except it comes with the Savage Lion's Claw ash of war. This weapon is not obtainable outside of this class.*
 
@@ -38,7 +38,7 @@ Classes Expanded is a mod that adds new starting classes to the game:
 
 <br/>
 
-- *If double clicking doesn't work, run:* `me3 launch -p "C:/path/to/mod/classes-expanded.mp3"`
+- *If double clicking doesn't work, run:* `me3 launch -p "C:/path/to/mod/classes-expanded.me3"`
 
 <br/>
 
