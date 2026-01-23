@@ -9,7 +9,7 @@ Specific mods can be installed by going to its specific latest release link, con
 
 <br/>
 
-## Classes Expanded - v0.1
+## Classes Expanded - v0.2
 ### Overview
 ***(Shadow of the Erdtree DLC is required)***
 
